@@ -1,0 +1,4 @@
+conf/settings.php
+conf/calendar-status.php
+conf/calendar-events.php
+conf/*.json

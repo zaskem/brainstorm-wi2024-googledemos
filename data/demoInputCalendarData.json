@@ -1,0 +1,25 @@
+{
+  "totalRecords": 2,
+  "data": [
+    [
+      "ECON 2101/001 - Econ is Great",
+      "ECON 2101 001",
+      "Econ is Great",
+      "2024-03-11T00:00:00",
+      630,
+      "2024-03-11T00:00:00",
+      695,
+      "Econ is Great"
+    ],
+    [
+      "STAT 2201/001 - Crazy Gnarly Graphs",
+      "STAT 2201 001",
+      "Crazy Gnarly Graphs",
+      "2024-03-11T00:00:00",
+      705,
+      "2024-03-11T00:00:00",
+      770,
+      "Crazy Gnarly Graphs"
+    ]
+  ]
+}
